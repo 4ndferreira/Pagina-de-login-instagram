@@ -1,2 +1,2 @@
 # Pagina-de-login-instagram
-Primeiro desafio do bootcamp santander fullstack developer
+Projeto do curso de flexbox da plataforma DIO.me
